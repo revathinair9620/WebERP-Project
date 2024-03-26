@@ -6,8 +6,8 @@
       <class name="com.weberp.qa.testcases.MainMenuPageTest">
         <methods>
           <include name="setUp"/>
+          <include name="testMenuItems"/>
           <include name="tearDown"/>
-          <include name="verifyInquiriesReportItems"/>
         </methods>
       </class> <!-- com.weberp.qa.testcases.MainMenuPageTest -->
     </classes>
